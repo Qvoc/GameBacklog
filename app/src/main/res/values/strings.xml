@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete_games">Delete games</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_platform">Platform</string>
+    <string name="hint_day">Day</string>
+    <string name="hint_month">Month</string>
+    <string name="hint_year">Year</string>
+    <string name="error_title">Please fill in a title</string>
+    <string name="error_platform">Please fill in a platform</string>
+    <string name="error_date">Please fill in a valid date</string>
+    <string name="release_date">Release: %1$s %2$s %3$s</string>
+</resources>
